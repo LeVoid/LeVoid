@@ -3,7 +3,7 @@
 ```python
   me = Person()
   
-  me.name = "LeVoid" # 👋
+  me.name = "Tim" # 👋
   me.age = 21
   me.profession = "Apprentice Software Developer"
   me.nationality = NATIONALITIES.GERMAN
