@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @LeVoid, I'm german, I'm 20 years old
-- 👀 I’m interested in C#, Datawarehousing and Automation
-- 🌱 I’m currently learning C#, SQL and organizing myself better
-- 💞️ I’m looking to collaborate on games (e.g. Unity) and the development of tools used for everyday things
-- 📫 How to reach me? Via GitHub, Discord (LeV__oid #1818) and Steam (https://steamcommunity.com/profiles/76561198114340829/)
+# About me
 
-![image](https://user-images.githubusercontent.com/71784437/161448254-a529dec0-2366-4d24-b10b-d148397ad561.png)
+```python
+  me = Person()
+  me.name = "LeVoid" # 👋
+  me.age = 21
+  me.nationality = NATIONALITIES.GERMAN
+  me.interests = ["C#", "Datawarehousing", "Automation"] # 👀
+  me.currently_learning = ["C#", "SQL", "Organization", "Linux"] # 🌱
+  me.wanting_to_collaborate = ["Games (Unity / Godot)", "Development of useful tools", "Open source projects"] # 💞️
+  me.contact = {
+    CONTACT.Steam = "https://steamcommunity.com/profiles/76561198114340829/",
+    CONTACT.Discord = "LeV__oid #1818",
+    CONTACT.Github = "https://github.com/LeVoid/"
+  } # 📫
+  
+  me.have_fun()
+```
