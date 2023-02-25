@@ -29,6 +29,12 @@
     me.run()
 ```
 
+```
+Out:
+----
+Tim -> "I feel alive!"
+```
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50px" height="50px"></img>
