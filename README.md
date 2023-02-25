@@ -43,5 +43,7 @@ Tim -> "I feel alive!"
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux/tux" width="50px" height="50px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50px" height="50px"></img>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50px" height="50px"></img>
 </p>
 
