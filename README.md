@@ -4,7 +4,7 @@
   me = Person()
   
   me.name = "Tim" # 👋
-  me.age = 21
+  me.age = 22
   me.profession = "Apprentice Software Developer"
   me.nationality = NATIONALITIES.GERMAN
   me.interests = ["C#", "Datawarehousing", "Automation"] # 👀
