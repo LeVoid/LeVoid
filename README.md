@@ -35,14 +35,9 @@ Out:
 Tim -> "I feel alive!"
 ```
 
+Also, red pandas are just cute.
+
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux/tux" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50px" height="50px"></img>
+  <img src="https://github.com/LeVoid/LeVoid/blob/main/red%20panda.jpg" alt="android"></img>
 </p>
 
