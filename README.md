@@ -4,7 +4,7 @@
   me = Person()
   
   me.name = "Tim" # 👋
-  me.age = 22
+  me.age = 23
   me.profession = "Apprentice Software Developer"
   me.nationality = NATIONALITIES.GERMAN
   me.interests = ["C#", "Datawarehousing", "Automation"] # 👀
@@ -40,7 +40,6 @@ Tim -> "I feel alive!"
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50px" height="50px"></img>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="lua" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux/tux" width="50px" height="50px"></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50px" height="50px"></img>
