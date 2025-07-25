@@ -5,7 +5,7 @@
   
   me.name = "Tim" # 👋
   me.age = 23
-  me.profession = "Apprentice Software Developer"
+  me.profession = "Software Developer"
   me.nationality = NATIONALITIES.GERMAN
   me.interests = ["C#", "Datawarehousing", "Automation"] # 👀
   me.languages = [LANG.German, LANG.English]
